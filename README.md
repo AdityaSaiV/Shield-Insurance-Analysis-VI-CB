@@ -10,9 +10,9 @@ Shield Insurance, a fictional company for the Codebasics internship, aims to opt
 
 🔗** Live Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiNzVkYzg0ZTEtYmE3MC00OTQ5LWIzMDktNjYyM2MwNTQ5ZjU4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=2ee609b0059447c727e1
 
-📃Power Point Presentation : https://www.canva.com/design/DAGsUelHw-k/zBbuDvwyX3S9_m8jsmPhTA/edit
+📃**Power Point Presentation** : https://www.canva.com/design/DAGsUelHw-k/zBbuDvwyX3S9_m8jsmPhTA/edit
 
-📽️ **Presentation Video**: (Click here)[https://drive.google.com/file/d/1BtY668srGYqAxZoMsrbpwl6MZxU0r5QB/view?usp=sharing]
+📽️ **Presentation Video** : (Click here)[https://drive.google.com/file/d/1BtY668srGYqAxZoMsrbpwl6MZxU0r5QB/view?usp=sharing]
 
 🎯 **Objectives**
 
