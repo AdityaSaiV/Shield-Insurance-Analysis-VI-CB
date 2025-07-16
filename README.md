@@ -8,7 +8,7 @@ Welcome to my Shield Insurance Company Analysis project, crafted as part of the 
 
 Shield Insurance, a fictional company for the Codebasics internship, aims to optimize its operations by analyzing customer and revenue trends. I developed a 3-page PowerBI dashboard to track key performance indicators (KPIs), segment customers, and uncover strategic opportunities across cities, age groups, and sales channels.
 
-🔗 **Live Dashboard**: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMzYyMzQxYWMtY2VkMC00MzU5LTk3ZjMtNTEyMGQxZGFmMjIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 **Live Dashboard**: [Click Here]([https://app.powerbi.com/view?r=eyJrIjoiMzYyMzQxYWMtY2VkMC00MzU5LTk3ZjMtNTEyMGQxZGFmMjIyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiOTg3MmI2ZDUtYWYxYS00NDA1LWJhYTMtYWUzOTU1ZGVhNzdhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 📃**Power Point Presentation** : [Click Here](https://www.canva.com/design/DAGsUelHw-k/zBbuDvwyX3S9_m8jsmPhTA/edit)
 
